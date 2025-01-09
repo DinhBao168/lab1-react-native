@@ -1,12 +1,4 @@
-console.log('Ôn tập Js cơ bản');
-let a = 1;
-var b = 5;
-console.log(`Tổng 2 số ${a} và ${b} = ${a+b}`);
 
-function tich2so(a, b){
-   return a*b;
-}
-console.log(tich2so(2, 6))
 const players = [
     { name: 'Messi', goals: 30 },
     undefined,
